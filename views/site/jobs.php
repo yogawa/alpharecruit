@@ -140,7 +140,7 @@
                                         <li>Fantastic career development opportunities</li>
                                         <li>Leading salary on offer</li>
                                     </ul>
-                                </div><a href="/jobs/people-culture-advisor" class="button-12 w-button">View Details</a>
+                                </div><a href="/job-detail" class="button-12 w-button">View Details</a>
                                 <div data-ms-content="saved-jobs" class="jetboost-toggle-favorite-bk5v">
                                     <div class="item-is-not-favourite"><a href="#" class="link-block-10 w-inline-block"><img src="https://assets-global.website-files.com/624a9b9e190a932a33ecd42f/641d0b6f146efba0c38ee810_star_FILL0_wght400_GRAD0_opsz48.svg" loading="lazy" width="24" alt="" />
                                             <div class="text-block-140">Save</div>
@@ -184,7 +184,7 @@
                                         <li>Career growth opportunities for staff looking to pursue a career in sales</li>
                                         <li>Inbound leads only!<br /></li>
                                     </ul>
-                                </div><a href="/jobs/inbound-sales-consultant-1" class="button-12 w-button">View Details</a>
+                                </div><a href="/job-detail" class="button-12 w-button">View Details</a>
                                 <div data-ms-content="saved-jobs" class="jetboost-toggle-favorite-bk5v">
                                     <div class="item-is-not-favourite"><a href="#" class="link-block-10 w-inline-block"><img src="https://assets-global.website-files.com/624a9b9e190a932a33ecd42f/641d0b6f146efba0c38ee810_star_FILL0_wght400_GRAD0_opsz48.svg" loading="lazy" width="24" alt="" />
                                             <div class="text-block-140">Save</div>
@@ -228,7 +228,7 @@
                                         <li>Great support and career progression</li>
                                         <li>Great remuneration and team environment</li>
                                     </ul>
-                                </div><a href="/jobs/registered-nurse---oncology---north-melbourne" class="button-12 w-button">View
+                                </div><a href="/job-detail" class="button-12 w-button">View
                                     Details</a>
                                 <div data-ms-content="saved-jobs" class="jetboost-toggle-favorite-bk5v">
                                     <div class="item-is-not-favourite"><a href="#" class="link-block-10 w-inline-block"><img src="https://assets-global.website-files.com/624a9b9e190a932a33ecd42f/641d0b6f146efba0c38ee810_star_FILL0_wght400_GRAD0_opsz48.svg" loading="lazy" width="24" alt="" />
@@ -273,7 +273,7 @@
                                         <li>Perth Based</li>
                                         <li>95k base salary + site allowances + overtime</li>
                                     </ul>
-                                </div><a href="/jobs/electrical-communications-technician" class="button-12 w-button">View Details</a>
+                                </div><a href="/job-detail" class="button-12 w-button">View Details</a>
                                 <div data-ms-content="saved-jobs" class="jetboost-toggle-favorite-bk5v">
                                     <div class="item-is-not-favourite"><a href="#" class="link-block-10 w-inline-block"><img src="https://assets-global.website-files.com/624a9b9e190a932a33ecd42f/641d0b6f146efba0c38ee810_star_FILL0_wght400_GRAD0_opsz48.svg" loading="lazy" width="24" alt="" />
                                             <div class="text-block-140">Save</div>
@@ -317,7 +317,7 @@
                                         <li>11-hour night shift Monday-Saturday!</li>
                                         <li>Immediate weld test &amp; starts available!</li>
                                     </ul>
-                                </div><a href="/jobs/welder---night-shift-2" class="button-12 w-button">View Details</a>
+                                </div><a href="/job-detail" class="button-12 w-button">View Details</a>
                                 <div data-ms-content="saved-jobs" class="jetboost-toggle-favorite-bk5v">
                                     <div class="item-is-not-favourite"><a href="#" class="link-block-10 w-inline-block"><img src="https://assets-global.website-files.com/624a9b9e190a932a33ecd42f/641d0b6f146efba0c38ee810_star_FILL0_wght400_GRAD0_opsz48.svg" loading="lazy" width="24" alt="" />
                                             <div class="text-block-140">Save</div>
@@ -361,7 +361,7 @@
                                         <li>Long term career growth into project management</li>
                                         <li>$110k - $125k - Super + vehicle</li>
                                     </ul>
-                                </div><a href="/jobs/site-manager---hvac" class="button-12 w-button">View Details</a>
+                                </div><a href="/job-detail" class="button-12 w-button">View Details</a>
                                 <div data-ms-content="saved-jobs" class="jetboost-toggle-favorite-bk5v">
                                     <div class="item-is-not-favourite"><a href="#" class="link-block-10 w-inline-block"><img src="https://assets-global.website-files.com/624a9b9e190a932a33ecd42f/641d0b6f146efba0c38ee810_star_FILL0_wght400_GRAD0_opsz48.svg" loading="lazy" width="24" alt="" />
                                             <div class="text-block-140">Save</div>
@@ -405,7 +405,7 @@
                                         <li>Relocation Support &amp; Sponsorship Offered</li>
                                         <li>Great team environment and development opportunities</li>
                                     </ul>
-                                </div><a href="/jobs/senior-lead-physiotherapist-orange-nsw" class="button-12 w-button">View
+                                </div><a href="/job-detail" class="button-12 w-button">View
                                     Details</a>
                                 <div data-ms-content="saved-jobs" class="jetboost-toggle-favorite-bk5v">
                                     <div class="item-is-not-favourite"><a href="#" class="link-block-10 w-inline-block"><img src="https://assets-global.website-files.com/624a9b9e190a932a33ecd42f/641d0b6f146efba0c38ee810_star_FILL0_wght400_GRAD0_opsz48.svg" loading="lazy" width="24" alt="" />
@@ -450,7 +450,7 @@
                                         <li>Relocation Support &amp; Sponsorship Offered</li>
                                         <li>Great team environment and development opportunities</li>
                                     </ul>
-                                </div><a href="/jobs/senior-lead-physiotherapist-gladstone-qld" class="button-12 w-button">View
+                                </div><a href="/job-detail" class="button-12 w-button">View
                                     Details</a>
                                 <div data-ms-content="saved-jobs" class="jetboost-toggle-favorite-bk5v">
                                     <div class="item-is-not-favourite"><a href="#" class="link-block-10 w-inline-block"><img src="https://assets-global.website-files.com/624a9b9e190a932a33ecd42f/641d0b6f146efba0c38ee810_star_FILL0_wght400_GRAD0_opsz48.svg" loading="lazy" width="24" alt="" />
